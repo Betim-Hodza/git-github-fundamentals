@@ -68,7 +68,7 @@ To learn more about your user profile and adding and updating your profile READM
 You might have noticed already, but you can add some fun styling to your issues, pull requests, and files. ["Markdown"](https://guides.github.com/features/mastering-markdown/) is an easy way to style your issues, pull requests, and files with some simple syntax. This can be helpful to organize your information and make it easier for others to read. You can also drop in gifs and images to help convey your point!
 To learn more about using GitHub’s flavor of markdown, read ["Basic Writing and Formatting Syntax"](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax). 
 
-## Reading / Watching
+## Reading / Watching / Doing
 
 1. [Git Handbook](https://guides.github.com/introduction/git-handbook/)
 
@@ -78,39 +78,7 @@ To learn more about using GitHub’s flavor of markdown, read ["Basic Writing an
     - [Git Status](https://www.youtube.com/watch?v=SxmveNrZb5k&list=PLg7s6cbtAD17Gw5u8644bgKhgRLiJXdX4&index=3)
     - [Saved Changes](https://www.youtube.com/watch?v=Vb0Ghkkc2hk&list=PLg7s6cbtAD17Gw5u8644bgKhgRLiJXdX4&index=4)
     - [Git Pull and Push](https://www.youtube.com/watch?v=-uQHV9GOA0w&list=PLg7s6cbtAD17Gw5u8644bgKhgRLiJXdX4&index=5)
-
-## 📝 Tasks and Grading Rubric
-
-* 50pts - After watching the Briana Swift video's, complete the branching tutorial at: [Learn Git Branching] (https://learngitbranching.js.org/)
-   - You can reset any puzzle by typing: reset
-   - Add two PNG screenshots to your repository that show your level completion. (HINT: git add and git commit )
-      - The screenshot must show your browser displaying the level completion AND a text document showing your name and netID
-      - Examples:
-      
-      <img src="images/main.png" alt="main" width="400"/>
-      <img src="images/remote.png" alt="remote" width="400"/>
-* 10pts - Edit the C file to print your name and NetID .  
-        - Print "Complete." on a new line.
-        - Make sure the code compiles and runs
-        - Commit and push the changes. [Push it](https://en.wikipedia.org/wiki/Push_It_(Salt-n-Pepa_song)) to your fork.
-        - In your commit message describe the changes you made.
-        - Click on the Actions tab and verify it grades as "Pass".
-        - If it does not pass fix the code to make is pass the test.
-* 10pts - After commiting the C code change, go the feedback pull request for this assignment
-   - Click on the down arrow
-   - Select a line of code, click the + and add a question or comment
-* 5pts - Edit the file README.md and add your name and student ID.  Commit this change to your repo.
-* 10pts - From the terminal tab in the Codespace determine what version of the Linux kernel is running.
-   - Add this to a file called Codespace_info.txt
-   - Add the file and commit and push it to your repository
-* 10pts - From the terminal, determine what version of Debian is running.
-   - Add this to the Codespace_info.txt file
-   - Commit and push this change to the repository
-* 5pts - From the terminal, determine how much disk space, in Human Readable format, is available in the filesystem named "overlay".
-   - Add the amount to the Codespace_info.txt file.
-   - Commit and push this change to the repository
-   
-- Add a comment in your Pull Request (PR) stating you have completed the assignment.
+3.  [Learn Git Branching] (https://learngitbranching.js.org/)
 
 ## 📚  Resources 
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
